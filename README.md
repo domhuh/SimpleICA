@@ -1,0 +1,1 @@
+# Simple implementation of ICA with negative tanh and whitening on noisy trigonometric signals
